@@ -1,0 +1,17 @@
+{
+  "name": "piles",
+  "version": "1.0.0",
+  "description": "stackdriver logging and metrics for hapi",
+  "main": "lib/index.js",
+  "scripts": {},
+  "keywords": [
+    "hapi",
+    "stackdriver"
+  ],
+  "author": "Nathan LaFreniere <quitlahok@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "fast-safe-stringify": "^1.2.0",
+    "nsp-log": "^3.0.2"
+  }
+}
