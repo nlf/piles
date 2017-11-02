@@ -1,6 +1,6 @@
 {
   "name": "piles",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "stackdriver logging and metrics for hapi",
   "main": "lib/index.js",
   "scripts": {},
